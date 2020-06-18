@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: currency-exchange
-        image: alvieira/currency-exchange-devops:0.0.1-RELEASE
+        image: alvieira/currency-exchange:0.0.1-RELEASE
         imagePullPolicy: IfNotPresent
         ports:
         - name: liveness-port
