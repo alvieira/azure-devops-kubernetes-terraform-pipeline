@@ -6,7 +6,7 @@ resources:
 
 variables:
   #tag: '$(Build.BuildId)'
-  tag: 17 #alvieira/currency-exchange-devops Tags
+  tag: 24 #alvieira/currency-exchange-devops Tags
 
 stages:
 - stage: Build
